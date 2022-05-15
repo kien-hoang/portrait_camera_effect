@@ -17,3 +17,10 @@ This source can do the same thing as Portrait mode, like:</p>
 
 <p>The blurring image:</p>
 <img src="https://github.com/kienht99/portrait_camera_effect/blob/main/images/img7.png" width="200">
+
+## References
+- https://developer.apple.com/documentation/avfoundation/cameras_and_media_capture/capturing_photos_with_depth
+
+- https://devstreaming-cdn.apple.com/videos/wwdc/2017/508wdyl5rm2jy9z8/508/508_image_editing_with_depth.pdf?dl=1
+
+- https://stackoverflow.com/a/49308754
